@@ -1,0 +1,5 @@
+#navigate to where you downloaded the file
+
+unzip flag.zip
+
+eog flag.png
